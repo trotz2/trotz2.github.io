@@ -1,0 +1,27 @@
+body{background-image: url("epicphoto.jpg");
+background-size: cover;}
+
+h1{font-style: italic;
+font-family: verdana;
+font-size: 100px;
+text-align: center;
+margin: 30px;
+}
+
+.container{ display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.btn-primary{background-color: black;
+	text-align: center;
+	align-content: center;
+}
+
+.btn-primary:hover{background-color: red;
+}
+
+.faded{
+  color: rgba(10, 10, 10, 0.8); 
+}
